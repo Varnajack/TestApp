@@ -8,6 +8,7 @@ namespace TestApp
 {
     class Interface
     {
+        // пока неясно что тут будет, но все методы и классы пишутся в PascalCase
         static void ground()
         {
             
